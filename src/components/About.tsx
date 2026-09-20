@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Mail, MapPin, Phone, GraduationCap } from 'lucide-react';
-import NimraCV from '../assets/images/Nimra_Naveed_Mern_Stack_CV.pdf';
+import NimraCV from '../assets/images/Nimra_Naveed_CV.pdf';
 
 export default function About() {
   return (
