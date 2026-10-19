@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ArrowRight, Github, Linkedin, Mail } from 'lucide-react';
 // import Nimra1 from '../../assets/images/Nimra1.jpeg';
-import Nimra2 from '../assets/images/Nimra7.jpg';
+import Nimra2 from '../assets/images/Nimra7.png';
 
 export default function Hero() {
   return (
