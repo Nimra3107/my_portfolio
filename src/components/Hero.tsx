@@ -10,8 +10,8 @@ export default function Hero() {
       className="relative min-h-svh flex items-center pt-28 pb-16 lg:pt-20 lg:pb-0 overflow-hidden"
     >
       {/* Background Glow */}
-      {/* <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px] sm:w-[800px] sm:h-[800px] bg-indigo-500/20 rounded-full blur-[120px] opacity-50 pointer-events-none" /> */}
-      <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-indigo-500 to-teal-400 blur-2xl opacity-20 animate-pulse" />
+      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px] sm:w-[800px] sm:h-[800px] bg-indigo-500/20 rounded-full blur-[120px] opacity-50 pointer-events-none" /> 
+     
 
       <div className="max-w-7xl mx-auto px-6 lg:px-8 relative z-10 w-full grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-12 items-center">
         
