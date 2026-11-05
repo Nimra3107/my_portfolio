@@ -36,7 +36,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="text-xl sm:text-2xl lg:text-3xl font-medium text-slate-300 mb-6">
-            MERN Stack Developer & UI Designer
+            Full Stack & MERN Stack Developer
           </h2>
 
           <p className="text-base sm:text-lg text-slate-400 max-w-xl mb-8 sm:mb-10 leading-relaxed">
