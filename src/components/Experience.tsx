@@ -18,7 +18,7 @@ const EXPERIENCE: ExperienceItem[] = [
   {
     company: 'Al Burraq Technologies',
     role: 'Software Development Intern',
-    period: 'Aug 2026 – Present',
+    period: 'Aug 2026 – Oct 2026',
     current: true,
     icon: Code2,
     points: [
