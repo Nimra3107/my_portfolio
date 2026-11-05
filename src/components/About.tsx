@@ -25,15 +25,32 @@ export default function About() {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <h4 className="text-2xl font-bold mb-6">
-              I'm a <span className="text-teal-400">MERN Stack Developer</span>
+              I'm a <span className="text-teal-400">Full Stack Developer</span>
             </h4>
             <div className="space-y-4 text-slate-400 leading-relaxed mb-8">
               <p>
-                I am a dedicated software engineer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on transforming complex business requirements into fast, responsive, and highly scalable web applications.
+                {/* I am a dedicated software engineer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on transforming complex business requirements into fast, responsive, and highly scalable web applications. */}
+                I'm a passionate Full Stack Developer and Computer Science graduate specializing in building modern, responsive, and scalable web applications.
               </p>
               <p>
-                With a strong emphasis on writing clean, maintainable code and delivering exceptional user experiences, I bridge the gap between technical execution and business value. I am continuously exploring emerging technologies and architectural patterns to elevate the quality of my work.
+My expertise includes JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL. I also have hands-on experience with Supabase, FastAPI, and Firebase.
               </p>
+              <p>
+                I enjoy transforming ideas and complex business requirements into practical digital solutions. From designing intuitive user interfaces to developing backend functionality, managing databases, and integrating APIs, I focus on writing clean, maintainable, and efficient code.
+  </p>
+              <p>
+Through hands-on projects, I've gained experience in full-stack application development, database migrations, database seeding, authentication, and real-time push notifications.
+</p>
+              <p>
+              
+I'm always eager to explore new technologies, solve challenging problems, and continuously grow as a software developer.
+</p>
+              <p>
+Let's connect and build something meaningful together!
+              </p>
+              {/* <p>
+                With a strong emphasis on writing clean, maintainable code and delivering exceptional user experiences, I bridge the gap between technical execution and business value. I am continuously exploring emerging technologies and architectural patterns to elevate the quality of my work.
+              </p> */}
             </div>
 
             <a
