@@ -19,7 +19,7 @@ const EXPERIENCE: ExperienceItem[] = [
     company: 'Al Burraq Technologies',
     role: 'Software Development Intern',
     period: 'Aug 2026 – Oct 2026',
-    // current: true,
+    current: false,
     icon: Code2,
     points: [
       'Developing interactive and responsive web applications using JavaScript, React.js, and Supabase through hands-on project-based learning.',
